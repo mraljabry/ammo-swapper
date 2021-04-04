@@ -30,6 +30,10 @@
   ],
   "languages": [
     {
+      "lang": "ar",
+      "name": "Arabic",
+      "path": "lang/ar.json"
+    },{
       "lang": "en",
       "name": "English",
       "path": "lang/en.json"
